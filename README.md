@@ -28,11 +28,11 @@ Predecir el precio (`Price`) de alojamientos de Airbnb utilizando un enfoque de 
    - Correlaciones
 3. **Preprocesamiento**:
    - Eliminación de columnas irrelevantes o con muchos nulos
-   - Ingeniería de variables (`bathrooms_per_guest`, codificación de barrios)
+   - Ingeniería de variables
    - Escalado de numéricas y codificación one-hot en pipeline
 4. **Modelado**:
    - Comparación entre regresión lineal, Ridge y Lasso
-   - Validación cruzada (5 folds)
+   - Validación cruzada 
    - Métrica: RMSE sobre `log_price`
 5. **Evaluación y conclusión escrita**
 
