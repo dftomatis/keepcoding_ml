@@ -1,4 +1,4 @@
-# 🧠 Predicción de precios de Airbnb - Práctica de Machine Learning
+# Predicción de precios de Airbnb - Práctica de Machine Learning
 
 Este proyecto forma parte de la práctica final del módulo de Machine Learning del Bootcamp de KeepCoding. El objetivo es construir un pipeline completo de regresión que permita predecir el precio de alojamientos de Airbnb en Madrid, aplicando buenas prácticas de limpieza, análisis, preprocesamiento y modelado.
 
@@ -40,7 +40,7 @@ Predecir el precio (`Price`) de alojamientos de Airbnb utilizando un enfoque de 
 
 1. Clona el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/tu-repo.git
+   git clone https://github.com/dftomatis/keepcoding_ml
    cd tu-repo
    ```
 
@@ -64,4 +64,4 @@ El archivo `environment.yml` contiene todas las dependencias necesarias para eje
 ## 📄 Licencia
 
 Este proyecto es parte de una práctica educativa y no tiene fines comerciales.  
-© 2025 - Darío Tomatis
+© 2025 - Ing. Darío Tomatis
