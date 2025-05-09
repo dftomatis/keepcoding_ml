@@ -1,0 +1,26 @@
+# Ignorar checkpoints de Jupyter
+.ipynb_checkpoints/
+
+# Ignorar cachés de Python
+__pycache__/
+*.py[cod]
+*.so
+
+# Archivos temporales de Jupyter
+*.~ipynb_checkpoints
+
+# Archivos de entorno
+.env
+.venv
+env/
+venv/
+
+# Archivos de configuración de VSCode
+.vscode/
+
+# Archivos del sistema
+.DS_Store
+Thumbs.db
+
+# Dataset si no se desea compartir
+
